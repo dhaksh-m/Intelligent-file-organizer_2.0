@@ -1,0 +1,9 @@
+node_modules/
+venv/
+.env
+dist/
+build/
+*.mp4
+*.zip
+*.exe
+TestFolder/git 
