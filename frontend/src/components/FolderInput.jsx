@@ -21,7 +21,7 @@ function FolderInput({
       setLoading(true)
 
       const response = await fetch(
-        'http://127.0.0.1:8000/organize',
+        'https://intelligent-file-organizer-2-0.onrender.com/organize',
         {
           method: 'POST',
           headers: {
